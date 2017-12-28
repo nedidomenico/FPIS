@@ -1,0 +1,13 @@
+run Anagrams
+run
+1 until 0
+1 until 1
+1 until 2
+i <- 1 intil 1
+i <- 1 intil 2
+for (i <- 1 until 2) i
+1 + 1
+val i = 2
+run
+test
+submit natedid@gmail.com 8KtqbCeM7KXe6A8X

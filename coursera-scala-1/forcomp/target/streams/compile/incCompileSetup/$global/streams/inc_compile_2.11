@@ -1,0 +1,340 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+25 items
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/common/package$.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/common/package.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$1.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$2$$anonfun$apply$1.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$2.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$3$$anonfun$apply$2.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$3$$anonfun$apply$3.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$3.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$4$$anonfun$apply$4.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$4.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$5.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$dictionaryByOccurrences$1.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$subCombine$1$1$$anonfun$apply$5$$anonfun$apply$6.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$subCombine$1$1$$anonfun$apply$5.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$subCombine$1$1.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$sentenceOccurrences$1.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$subtract$1.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$1.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/package$$anonfun$1.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/package$$anonfun$2.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/package$.class
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/package.class
+binary dependencies:
+6 items
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> /home/ndidomenico/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ndidomenico/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> /home/ndidomenico/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> /home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+25 items
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> common.package
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> common.package$
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$1
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$2
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$2$$anonfun$apply$1
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$3
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$3$$anonfun$apply$2
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$3$$anonfun$apply$3
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$4
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$4$$anonfun$apply$4
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$5
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$dictionaryByOccurrences$1
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$subCombine$1$1
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$subCombine$1$1$$anonfun$apply$5
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$subCombine$1$1$$anonfun$apply$5$$anonfun$apply$6
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$sentenceOccurrences$1
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$subtract$1
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$wordOccurrences$1
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> forcomp.package
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> forcomp.package$
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> forcomp.package$$anonfun$1
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> forcomp.package$$anonfun$2
+used names:
+168 items
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> ::
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> <init>
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> <repeated>
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> Any
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> AnyRef
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> File
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> FileInputStream
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> InputStream
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> List
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> None
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> Nothing
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> Option
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> Predef
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> String
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> _root_
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> child
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> children
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> classesDir
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> common
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> exists
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> file
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> foldLeft
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> getClass
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> getParentFile
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> getResource
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> io
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> java
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> package
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> projectDir
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> resourceFile
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> resourcePath
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> scala
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> subFile
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> toURI
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> &&
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> +
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> -
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> ::
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> :::
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> <
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> <init>
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> ==
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> Anagrams
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> AnyRef
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> Array
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> Char
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> HashMap
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> IndexedSeq
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> Int
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> List
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> Map
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> Nil
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> Occurrences
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> Predef
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> Sentence
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> String
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> Tuple2
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> Unit
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> Word
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> _1
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> _2
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> a
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> acc
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> apply
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> asInstanceOf
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> augmentString
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> b
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> c
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> canBuildFrom
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> charWrapper
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> collection
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> comb1
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> comb2
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> comb3
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> combination
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> combinations
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> contains
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> dictionary
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> dictionaryByOccurrences
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> diff
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> distinct
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> flatMap
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> foldLeft
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> groupBy
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> head
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> i
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> iHead
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> iList1
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> iList2
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> iTail
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> immutable
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> intWrapper
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> isEmpty
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> isInstanceOf
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> j
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> loadDictionary
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> map
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> ne
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> newMap
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> o
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> oMap
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> occ
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> occurrences
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> package
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> println
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> s
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> scala
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> sentence
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> sentenceOccurrences
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> sortWith
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> subCombine
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> subWordOccurrences
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> subWords
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> subtract
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> tail
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> testOList1
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> testOList2
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> testWord1
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> testWord2
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> to
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> toList
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> toLower
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> unary_!
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> updated
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> w
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> withDefaultValue
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> withFilter
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> word
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> wordOccurrences
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> ww
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> x
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> xs
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> y
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> +
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> <init>
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> AnyRef
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> Codec
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> Exception
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> List
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> Option
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> Predef
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> Source
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> apply
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> close
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> common
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> dictionaryPath
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> e
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> error
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> fallbackSystemCodec
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> forcomp
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> fromInputStream
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> getClass
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> getLines
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> getOrElse
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> getResourceAsStream
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> immutable
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> io
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> mkString
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> orElse
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> package
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> println
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> resourceAsStreamFromSrc
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> s
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> scala
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> sys
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> toList
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> wordstream
+product stamps:
+25 items
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1498071855000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/common/package$.class -> lastModified(1498071855000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/common/package.class -> lastModified(1498071855000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$1.class -> lastModified(1498073930000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$2$$anonfun$apply$1.class -> lastModified(1498073930000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$2.class -> lastModified(1498073930000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$3$$anonfun$apply$2.class -> lastModified(1498073930000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$3$$anonfun$apply$3.class -> lastModified(1498073930000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$3.class -> lastModified(1498073930000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$4$$anonfun$apply$4.class -> lastModified(1498073930000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$4.class -> lastModified(1498073930000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$5.class -> lastModified(1498073930000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$dictionaryByOccurrences$1.class -> lastModified(1498073930000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$subCombine$1$1$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1498073930000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$subCombine$1$1$$anonfun$apply$5.class -> lastModified(1498073930000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$subCombine$1$1.class -> lastModified(1498073930000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$sentenceOccurrences$1.class -> lastModified(1498073930000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$subtract$1.class -> lastModified(1498073930000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$1.class -> lastModified(1498073930000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams$.class -> lastModified(1498073930000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/Anagrams.class -> lastModified(1498073930000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/package$$anonfun$1.class -> lastModified(1498071855000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/package$$anonfun$2.class -> lastModified(1498071855000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/package$.class -> lastModified(1498071855000)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/target/scala-2.11/classes/forcomp/package.class -> lastModified(1498071855000)
+source stamps:
+3 items
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> hash(ece1eacce4b3e2dc769c769120c9df5582afdd70)
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> hash(77c0a618470b8baef7ad6c4ec5791b3e05901b88)
+binary stamps:
+2 items
+/home/ndidomenico/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1494039098000)
+class names:
+2 items
+/home/ndidomenico/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.LowPriorityImplicits
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+3 items
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AXwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBmc3EAfgBfAXVxAH4AQgAAAABwc3EAfgBfAXVxAH4AQgAAAABwc3EAfgBfAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3NxAH4AcnQAA0FueXNxAH4AdnNxAH4AeXVxAH4AfAAAAAJzcQB+AH50AAVzY2FsYXEAfgCFcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVzMCpFsdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAUC9ob21lL25kaWRvbWVuaWNvL215LWxlYXJuaW5nL2NvdXJzZXJhLXNjYWxhLTEvZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiFuPEqWyqD2tZY92zB/dZ4o41Kg=
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDyxz8IAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJvH++x0AAZub3RpZnlzcQB+AAzYlMRSdAAEd2FpdHNxAH4ADIbe1DN0AA0kYXNJbnN0YW5jZU9mc3EAfgAMGGzzTXQACHN1YnRyYWN0c3EAfgAMueeH+HQABmVxdWFsc3NxAH4ADBCoktB0AApkaWN0aW9uYXJ5c3EAfgAM5i8oMnQADGFzSW5zdGFuY2VPZnNxAH4ADCT2FrJ0AA93b3JkT2NjdXJyZW5jZXNzcQB+AAzKvpIHdAAMc3luY2hyb25pemVkc3EAfgAM9k8Eu3QADSRpc0luc3RhbmNlT2ZzcQB+AAzhUvK0dAAQc2VudGVuY2VBbmFncmFtc3NxAH4ADJNIDfN0AAx3b3JkQW5hZ3JhbXNzcQB+AAwbY/lUdAAEbWFpbnNxAH4ADOF1/CN0AAlub3RpZnlBbGxzcQB+AAwvbkjDdAAMaXNJbnN0YW5jZU9mc3EAfgAMn12YNHQADGNvbWJpbmF0aW9uc3NxAH4ADI30Hzd0AAtPY2N1cnJlbmNlc3NxAH4ADKrdyUJ0AAI9PXNxAH4ADHetZux0AAVjbG9uZXNxAH4ADC3GzdF0ABdkaWN0aW9uYXJ5QnlPY2N1cnJlbmNlc3NxAH4ADG1+iXR0AAh0b1N0cmluZ3NxAH4ADLmncCl0AAIhPXNxAH4ADOw6BqV0ABNzZW50ZW5jZU9jY3VycmVuY2Vzc3EAfgAMJXGYjnQACGdldENsYXNzc3EAfgAMqijHEXQAAm5lc3EAfgAMv2+ijXQACEFuYWdyYW1zc3EAfgAMOypA0HQAAmVxc3EAfgAMAmAn1nQACFNlbnRlbmNlc3EAfgAM+7jAz3QABFdvcmRzcQB+AAxkqP6OdAACIyNzcQB+AAxwlKJzdAAIZmluYWxpemVzcQB+AAzvbZmldAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBXeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAQZm9yY29tcC5BbmFncmFtc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AbwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AV0wACWluaGVyaXRlZHEAfgBXTAAHcGFyZW50c3EAfgBXeHEAfgB2c3EAfgBvAXVxAH4AUgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AWHEAfgBhdXEAfgBiAAAAAHNxAH4AZABxAH4AJ3VxAH4AZwAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB1dAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AdXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AkXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AH54cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGp0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIVbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHVzcQB+AIR0AAVBcnJheXEAfgCKdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIR0AAZTdHJpbmdzcQB+AIhzcQB+AIt1cQB+AI4AAAADc3EAfgCQdAAEamF2YXNxAH4AkHQABGxhbmdxAH4AlXBzcQB+AG8BdXEAfgBSAAAAAHBzcQB+AG8BdXEAfgCpAAAAAnNxAH4AhHQABk9iamVjdHEAfgCtc3EAfgCEdAADQW55cQB+AIpwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2ZvcmNvbXBzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVzMKitqdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAUC9ob21lL25kaWRvbWVuaWNvL215LWxlYXJuaW5nL2NvdXJzZXJhLXNjYWxhLTEvZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU7OHqzOSz4tx2nHaRIMnfVYKv3XA=
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDIdJL/AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNbz0pZ0AAZub3RpZnlzcQB+AAxW1XgtdAAHcGFja2FnZXNxAH4ADAl+dyx0AAR3YWl0c3EAfgAMLc/YrXQADSRhc0luc3RhbmNlT2ZzcQB+AAyZ4UMNdAAGZXF1YWxzc3EAfgAMtOzWKnQADGFzSW5zdGFuY2VPZnNxAH4ADA4Z8Y50AAxzeW5jaHJvbml6ZWRzcQB+AAw5MC4/dAANJGlzSW5zdGFuY2VPZnNxAH4ADM8ZN550AAlub3RpZnlBbGxzcQB+AAxF25EtdAAMaXNJbnN0YW5jZU9mc3EAfgAMqDWMmHQADmxvYWREaWN0aW9uYXJ5c3EAfgAMaRwC5nQAAj09c3EAfgAMeOTc4nQABWNsb25lc3EAfgAMewrlhnQACHRvU3RyaW5nc3EAfgAMGBCTnnQAAiE9c3EAfgAMy+/k/nQACGdldENsYXNzc3EAfgAMQqdvvXQAAm5lc3EAfgAM+PLHM3QADmRpY3Rpb25hcnlQYXRoc3EAfgAMz5Z3h3QAAmVxc3EAfgAMScfz5HQAAiMjc3EAfgAMUJ+SMHQACGZpbmFsaXplc3EAfgAMJd7D+XQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAD2ZvcmNvbXAucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AWwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBic3EAfgBbAXVxAH4APgAAAABwc3EAfgBbAXVxAH4APgAAAABwc3EAfgBbAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AenQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ae3NxAH4AbnQAA0FueXNxAH4AcnNxAH4AdXVxAH4AeAAAAAJzcQB+AHp0AAVzY2FsYXEAfgCBcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdmb3Jjb21wc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFczAqRbHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFAvaG9tZS9uZGlkb21lbmljby9teS1sZWFybmluZy9jb3Vyc2VyYS1zY2FsYS0xL2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHfAphhHC4uu961sTsV5Gz4FkBuI
+external apis:
+0 items
+source infos:
+3 items
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/Anagrams.scala -> 
+AAAAAAAAAAA=
+/home/ndidomenico/my-learning/coursera-scala-1/forcomp/src/main/scala/forcomp/package.scala -> 
+AAAAAAAAAAA=
+compilations:
+9 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMJCy8Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUC9ob21lL25kaWRvbWVuaWNvL215LWxlYXJuaW5nL2NvdXJzZXJhLXNjYWxhLTEvZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMJEYkh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUC9ob21lL25kaWRvbWVuaWNvL215LWxlYXJuaW5nL2NvdXJzZXJhLXNjYWxhLTEvZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMJGOGd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUC9ob21lL25kaWRvbWVuaWNvL215LWxlYXJuaW5nL2NvdXJzZXJhLXNjYWxhLTEvZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMZNVLZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUC9ob21lL25kaWRvbWVuaWNvL215LWxlYXJuaW5nL2NvdXJzZXJhLXNjYWxhLTEvZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMbMXpt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUC9ob21lL25kaWRvbWVuaWNvL215LWxlYXJuaW5nL2NvdXJzZXJhLXNjYWxhLTEvZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMtmSgl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUC9ob21lL25kaWRvbWVuaWNvL215LWxlYXJuaW5nL2NvdXJzZXJhLXNjYWxhLTEvZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMwKkWx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUC9ob21lL25kaWRvbWVuaWNvL215LWxlYXJuaW5nL2NvdXJzZXJhLXNjYWxhLTEvZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMwjLtx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUC9ob21lL25kaWRvbWVuaWNvL215LWxlYXJuaW5nL2NvdXJzZXJhLXNjYWxhLTEvZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMwqK2p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUC9ob21lL25kaWRvbWVuaWNvL215LWxlYXJuaW5nL2NvdXJzZXJhLXNjYWxhLTEvZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
