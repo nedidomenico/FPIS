@@ -1,2 +1,9 @@
 *.class
 *.log
+*.iws
+*.ipr
+*.idea/
+.idea/**
+*.scssc
+target
+*.sw*
