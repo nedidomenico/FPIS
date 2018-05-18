@@ -50,7 +50,9 @@ class Pouring (capacity: Vector[Int]) {
         next <- moves map path.extend
         if !(explored contains next.endState)
       } yield next
-      paths #:: from(more, explored ++ (more map (_.endState)))
+      val out = paths #:: from(more, explored ++ (more map (_.endState)))
+      println(out)
+      out
     }
 
   val pathSets = from(Set(initialPath), Set(initialState))

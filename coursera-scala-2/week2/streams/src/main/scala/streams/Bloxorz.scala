@@ -14,7 +14,8 @@ object Bloxorz extends App {
     val goal = Pos(5,8)
   }
 
-  println(InfiniteLevel.solution)
+  println(
+    InfiniteLevel.solution)
 
   /**
    * A simple level constructed using the StringParserTerrain
